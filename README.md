@@ -1,4 +1,5 @@
 ### Hi there 👋
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <!--
 **joshi-debb/joshi-debb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
