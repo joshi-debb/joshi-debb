@@ -1,8 +1,6 @@
 <!-- flicker line -->
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<iframe src="https://giphy.com/embed/ryRe2vuYIQ3RQ5eMtY" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/stickers/envimediaco-envi-media-co-ryRe2vuYIQ3RQ5eMtY">via GIPHY</a></p>
-
 ## <picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  <b> <b>Hi, </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> I'm Joshi </b> <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
 
 Glad to see you here!
