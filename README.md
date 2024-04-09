@@ -7,7 +7,7 @@ Glad to see you here!
 
 - 👨‍💻 I'm currently working as a junior IT
 
-- 🎓 I'm currently studying Science and Systems at the University of San Carlos of Guatemala
+- 🎓 I'm currently studying science and systems engineering at the University of San Carlos of Guatemala
 
 - 🌱 I’m currently learning about kubernetes cluster
 
