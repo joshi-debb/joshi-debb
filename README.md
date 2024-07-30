@@ -63,7 +63,7 @@ Glad to see you here!
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"><b> Stats</b> 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshi-debb)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshi-debb&cache_seconds=86400)
 
 
 
