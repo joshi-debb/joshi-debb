@@ -51,16 +51,15 @@ Focused on building applications that **automate workflows**, enhance data quali
 
 ---
 
-## 📫 Connect with Me
 <p>
   <a href="https://www.linkedin.com/in/josue-zuleta/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="mailto:jzuleta.dev@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
   </a>
   <a href="https://github.com/joshi-debb" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
 </p>
 
