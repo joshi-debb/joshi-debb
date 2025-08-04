@@ -50,6 +50,7 @@ Focused on building applications that **automate workflows**, enhance data quali
 </p>
 
 ---
+
 ## 📫 Connect with Me  
 <a href="https://www.linkedin.com/in/josue-zuleta/" target="_blank" style="text-decoration:none; color:inherit; display:inline-flex; align-items:center; gap:4px;">
   <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
