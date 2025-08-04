@@ -56,7 +56,7 @@ Focused on building applications that **automate workflows**, enhance data quali
   <a href="https://www.linkedin.com/in/josue-zuleta/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:mym.jayjay@gmail.com" target="_blank">
+  <a href="mailto:jzuleta.dev@gmail.com" target="_blank">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://github.com/joshi-debb" target="_blank">
