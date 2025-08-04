@@ -51,8 +51,18 @@ Focused on building applications that **automate workflows**, enhance data quali
 
 ---
 
-## 📫 Connect with Me  
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20" alt="LinkedIn"/> LinkedIn](https://www.linkedin.com/in/josue-zuleta/) | [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="20" alt="GitHub"/> GitHub](https://github.com/joshi-debb) | [<img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="20" alt="Email"/> Email](mailto:mym.jayjay@gmail.com)
+## 📫 Connect with Me
+<p>
+  <a href="https://www.linkedin.com/in/josue-zuleta/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:mym.jayjay@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://github.com/joshi-debb" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+</p>
 
 <!-- Flicker line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
