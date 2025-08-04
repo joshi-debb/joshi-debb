@@ -13,17 +13,17 @@ Focused on building applications that **automate workflows**, enhance data quali
 ---
 
 ## 🛠 Skills
-**Languages:** Python, JavaScript, Java, C++  
+**Languages:** Python, JavaScript  
 **Frontend:** React (Vite + React)  
 **Backend:** Node.js (Express), Flask, REST / RESTful APIs  
 **AI & API Integration:** OpenAI API, external APIs  
 **Databases:** MySQL, SQL Server, MongoDB, Redis  
 **Cloud & DevOps:** Docker, Kubernetes (GKE), Google Cloud, AWS, ELK Stack, CI/CD (GitLab CI)  
 **Desktop Apps:** Electron  
-**Automation & Low-Code:** n8n  
+**Automation & Low-Code:** N8N
 **Agile:** Scrum, Kanban  
 **Others:** Linux (Ubuntu, Kali), Git, GitHub, GitLab  
-**Learning:** .NET, Laravel  
+**Learning:** MCP
 
 ---
 
@@ -52,7 +52,7 @@ Focused on building applications that **automate workflows**, enhance data quali
 ---
 
 ## 📫 Connect with Me
-<div align="center" style="display:inline-flex; gap:20px; align-items:center; justify-content:center;">
+<div align="center" style="display:inline-flex; gap:50px; align-items:center;">
   <a href="https://www.linkedin.com/in/josue-zuleta/" target="_blank" aria-label="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
