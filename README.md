@@ -7,6 +7,7 @@
 
 ## 🚀 About Me
 Full Stack & Cloud Developer with experience in **web, desktop, and cloud-based applications**, integrating intelligent APIs, automation tools, and agile methodologies to deliver scalable, secure, and efficient solutions.  
+
 Focused on building applications that **automate workflows**, enhance data quality, and improve user experience.
 
 ---
@@ -26,9 +27,9 @@ Focused on building applications that **automate workflows**, enhance data quali
 
 ---
 
-## 📌 Projects
+## 📌 Current Projects
 - **Cloud Inventory Module:** Centralized and real-time inventory management across projects, including material/tool requests, transfers, multi-location merchandise entry, and complete transaction tracking.  
-- **Human Resources Application:** Completed web platform that optimized HR workflows and centralized personnel management.
+- **Cloud HR Module:** Completed web platform that optimized HR workflows and centralized personnel management.
 
 ---
 
