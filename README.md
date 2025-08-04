@@ -23,7 +23,7 @@ Focused on building applications that **automate workflows**, enhance data quali
 **Automation & Low-Code:** N8N
 **Agile:** Scrum, Kanban  
 **Others:** Linux (Ubuntu, Kali), Git, GitHub, GitLab  
-**Learning:** MCP
+**Learning:** Model Context Protocol (MCP)
 
 ---
 
@@ -52,7 +52,7 @@ Focused on building applications that **automate workflows**, enhance data quali
 ---
 
 ## 📫 Connect with Me
-<div align="center" style="display:inline-flex; gap:50px; align-items:center;">
+<div style="display:inline-flex; gap:50px;">
   <a href="https://www.linkedin.com/in/josue-zuleta/" target="_blank" aria-label="LinkedIn">
     <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
