@@ -51,17 +51,18 @@ Focused on building applications that **automate workflows**, enhance data quali
 
 ---
 
-<p>
-  <a href="https://www.linkedin.com/in/josue-zuleta/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+## 📫 Connect with Me
+<div align="center" style="display:inline-flex; gap:20px; align-items:center; justify-content:center;">
+  <a href="https://www.linkedin.com/in/josue-zuleta/" target="_blank" aria-label="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
   </a>
-  <a href="mailto:jzuleta.dev@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" />
+  <a href="mailto:jzuleta.dev@gmail.com" target="_blank" aria-label="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
   </a>
-  <a href="https://github.com/joshi-debb" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="40" />
+  <a href="https://github.com/joshi-debb" target="_blank" aria-label="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
   </a>
-</p>
+</div>
 
 <!-- Flicker line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
