@@ -29,7 +29,7 @@ Focused on building applications that **automate workflows**, enhance data quali
 
 ## 📌 Current Projects
 - **Cloud Inventory Module:** Centralized and real-time inventory management across projects, including material/tool requests, transfers, multi-location merchandise entry, and complete transaction tracking.  
-- **Cloud HR Module:** Completed web platform that optimized HR workflows and centralized personnel management.
+- **Cloud HR Module:** Completed platform that optimized HR workflows and centralized personnel management.
 
 ---
 
@@ -48,21 +48,6 @@ Focused on building applications that **automate workflows**, enhance data quali
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=joshi-debb&theme=tokyonight" alt="GitHub Streak Stats" height="180"/>
 </p>
-
----
-
-## 📫 Connect with Me
-<div style="display:inline-flex; gap:50px;">
-  <a href="https://www.linkedin.com/in/josue-zuleta/" target="_blank" aria-label="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40" height="40" alt="LinkedIn" />
-  </a>
-  <a href="mailto:jzuleta.dev@gmail.com" target="_blank" aria-label="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" width="40" height="40" alt="Email" />
-  </a>
-  <a href="https://github.com/joshi-debb" target="_blank" aria-label="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" width="40" height="40" alt="GitHub" />
-  </a>
-</div>
 
 <!-- Flicker line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
